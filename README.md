@@ -1,0 +1,1 @@
+# **Licensed to Volodymyr Hovorun**
