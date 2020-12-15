@@ -1,1 +1,1 @@
-# **Licensed to Volodymyr Hovorun**
+# **Licensed to Volodymyr Hovorun front end developer**
