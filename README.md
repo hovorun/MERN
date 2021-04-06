@@ -1,1 +1,1 @@
-# **Licensed to Volodymyr Hovorun front end developer**
+# **Licensed to Volodymyr Hovorun front end developer implementation of online city map**
